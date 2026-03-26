@@ -1,4 +1,4 @@
-# javaEE-
+# javaEE
 如果你刚开始学习javaEE又想懒人搞定环境搭建（ai还是太好用了）<br>
 本脚本一键配置 jdk + maven + jetty 并提供了命令行来简化创建标准项目和运行流程。
 
